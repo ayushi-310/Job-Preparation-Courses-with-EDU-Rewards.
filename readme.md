@@ -6,6 +6,8 @@ The Job Preparation Courses project is a decentralized platform that provides le
 
 ## Contract Address
  0xa78b992533e2100a1f485d6f65b6d99097987659
+ ![image](https://github.com/user-attachments/assets/fae48bd8-9726-4c5b-bfd2-2b2d03612666)
+
 
 
 ## Project Vision
